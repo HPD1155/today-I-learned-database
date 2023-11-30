@@ -1,6 +1,6 @@
 Date: 11-30-23
 # What does the `set()` method do?
-`set()` is used to make a "set" of unique sorted data. It could be placed on `lists`, `tuples`, and `dictionaries`. This function works with all data types. If the data is a `int` or `float`, it would sort it in ascending order.
+`set()` is used to make a "set" of unique sorted data. Unique means that it removes duplicates, so there is only one of each element. It could be placed on `lists`, `tuples`, and `dictionaries`. This function works with all data types. If the data is a `int` or `float`, it would sort it in ascending order.
 
 # How to use
 **Code:**
